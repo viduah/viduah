@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** who loves b
 ---
 
 ## 🌐 **Connect With Me**
-- 💼 LinkedIn: *Add your link here*
-- 📧 Email: *Add your email here*
+- 💼 LinkedIn: Umayanga Vidunuwan
+- 📧 Email: uvidunuwan@gmail.com
 
 ---
 
