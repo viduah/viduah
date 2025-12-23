@@ -52,23 +52,31 @@ I’m a software engineer with a strong interest in building **scalable backend 
 
 ## 📈 GitHub Stats & Charts
 
+<div align="center">
+
 ### 📊 Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&theme=tokyonight&langs_count=8)
+
+</div>
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viduah&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-dark&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=tokyo-night&hide_border=true&area=true)
 
 ### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viduah&theme=radical&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=viduah&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)
 
-### ⚡ Recent Activity
-![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=viduah&theme=radical&hide_border=true)
+### 📊 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=tokyonight)
+
+### 💼 Commits & Languages Over Time
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viduah&theme=tokyonight)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viduah&theme=tokyonight)
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/viduah
