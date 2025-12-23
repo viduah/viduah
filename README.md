@@ -53,6 +53,8 @@ I enjoy building scalable APIs, clean business logic, and reliable systems that 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah)
+
 ---
 
 ## 🤝 Let’s Connect
