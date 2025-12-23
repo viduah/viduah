@@ -51,7 +51,8 @@ I’m a software engineer with a strong interest in building **scalable backend 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=dark)
+![Viduah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=dark)
+
 
 ---
 
