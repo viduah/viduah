@@ -49,9 +49,26 @@ I’m a software engineer with a strong interest in building **scalable backend 
 - AI-assisted development workflows
 
 ---
-## 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-dark)
 
+## 📈 GitHub Stats & Charts
+
+### 📊 Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=radical&hide_border=true)
+
+### 📈 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-dark&hide_border=true)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viduah&theme=radical&no-frame=true&row=1&column=7)
+
+### ⚡ Recent Activity
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=viduah&theme=radical&hide_border=true)
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/viduah
