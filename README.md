@@ -52,25 +52,12 @@ I’m a software engineer with a strong interest in building **scalable backend 
 
 ## 📈 GitHub Stats & Charts
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=algolia" alt="viduah" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=viduah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-compact&hide_border=true" alt="Contribution Graph" />
-</p>
-
-### 🏆 GitHub Profile Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viduah&theme=algolia&no-frame=false&margin-w=15&row=1" alt="Trophies" />
-</p>
+[![Viduah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=tokyonight)
