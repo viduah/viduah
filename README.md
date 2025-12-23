@@ -49,8 +49,9 @@ I’m a software engineer with a strong interest in building **scalable backend 
 - AI-assisted development workflows
 
 ---
-## 🐍 Contribution Graph
-![Contribution Snake](https://github.com/viduah/viduah/blob/output/github-contribution-grid-snake.svg)
+## 📈 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-dark)
+
 
 ## 🤝 Connect With Me
 - GitHub: https://github.com/viduah
