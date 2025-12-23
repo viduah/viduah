@@ -49,11 +49,10 @@ I enjoy building scalable APIs, clean business logic, and reliable systems that 
 
 ## 📈 GitHub Stats
 
-![Vidu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=default)
+![Profile Details](profile-summary-card-output/default/0-profile-details.svg)
+![Most Commit Language](profile-summary-card-output/default/2-most-commit-language.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah) -->
 
 ---
 
