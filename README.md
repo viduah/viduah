@@ -1,50 +1,64 @@
-# 👋 Hi, I'm **Vidu**
+# Hi 👋, I'm Vidu
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** who loves building robust backend systems, crafting clean APIs, and exploring new technologies. I enjoy working with **Laravel**, **Node.js**, **React**, and cloud services while continuously improving my development workflow.
+🚀 Software Engineer | Backend-focused | API & System Builder  
 
----
-
-## 🚀 **About Me**
-- 🔭 Currently working on: **Mobile app backend (Laravel)** and **Real-time apps**
-- 🌱 Learning: **Laravel best practices**, **Django**, **Cloud services**, **Game development (UE5)**
-- 👯 Open to collaborate on: **API development**, **Laravel packages**, **Real-time apps**, **Web dashboards**
-- 🎮 Fun fact: I love **Rocket League**, chess, and solving mathematical puzzles.
+I’m a software engineer with a strong interest in building **scalable backend systems**, clean APIs, and practical solutions that solve real-world problems. I enjoy learning new technologies and improving existing systems step by step.
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-### **Backend**
-- PHP, Laravel, Node.js, Express.js, Python (microservices)
+**Backend**
+- PHP (Laravel)
+- Node.js
+- REST APIs
+- JWT / Sanctum Authentication
 
-### **Frontend**
-- React.js, Vue.js, Core UI, Tailwind CSS
+**Frontend**
+- JavaScript
+- React
+- Vue (basic)
+- HTML / CSS
 
-### **Databases**
-- MySQL, PostgreSQL, MongoDB, Firebase Firestore
+**Databases**
+- MySQL
+- PostgreSQL
+- Firebase / Firestore
 
-### **DevOps / Cloud**
-- Docker, AWS (Lambda, API Gateway, S3), GitHub Actions
-
-### **Tools**
-- Git, Postman, Linux Server Management
-
----
-
-## 📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=tokyonight)
-
----
-
-## 🌐 **Connect With Me**
-- 💼 LinkedIn: Umayanga Vidunuwan
-- 📧 Email: uvidunuwan@gmail.com
+**Dev & Tools**
+- Git & GitHub
+- Docker (basic)
+- AWS S3
+- Postman
+- Linux
 
 ---
 
-⭐ **Thanks for visiting my profile!** If you like my projects, feel free to star them! 🚀
+## 📌 What I’m Working On
+- Building secure backend APIs for mobile & web apps  
+- Payment gateway integrations  
+- Role & permission systems (Spatie, JWT)  
+- Real-time features (Firebase, WebSockets)
+
+---
+
+## 🌱 Currently Learning
+- System design fundamentals  
+- Advanced Laravel performance optimization  
+- Microservices & API architecture  
+- AI-assisted development workflows
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=dark)
+
+---
+
+## 🤝 Connect With Me
+- GitHub: https://github.com/viduah
+- Email: your-email@example.com
+
+---
+
+⭐️ *Always open to learning, building, and improving.*
