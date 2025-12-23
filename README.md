@@ -50,14 +50,20 @@ I’m a software engineer with a strong interest in building **scalable backend 
 
 ---
 
-## 📈 GitHub Stats & Charts
+## 📈 GitHub Activity
 
-![](https://github-readme-stats.vercel.app/api?username=viduah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 Profile Stats
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viduah&theme=github_dark)](https://github.com/viduah)
 
-### 📈 Contribution Activity
-[![Viduah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 💻 Languages & Commits
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viduah&theme=github_dark)](https://github.com/viduah)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viduah&theme=github_dark)](https://github.com/viduah)
+
+### 📈 Contribution Timeline
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=github_dark)](https://github.com/viduah)
+
+### ⏰ Productive Time
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viduah&theme=github_dark)](https://github.com/viduah)
 
 ### 📊 Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=tokyonight)
