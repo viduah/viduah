@@ -52,20 +52,25 @@ I’m a software engineer with a strong interest in building **scalable backend 
 
 ## 📈 GitHub Stats & Charts
 
-### 📊 Overall Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viduah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viduah&layout=compact&theme=dark&langs_count=10" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact&langs_count=8&theme=algolia"/>
+</p>
 
 ### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com?user=viduah&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viduah&theme=algolia" alt="viduah" />
+</p>
 
-### 📈 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=tokyo-night&hide_border=true&area=true)
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viduah&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=viduah&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+### 🏆 GitHub Profile Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viduah&theme=algolia&no-frame=false&margin-w=15&row=1" alt="Trophies" />
+</p>
 
 ### 📊 Profile Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=tokyonight)
