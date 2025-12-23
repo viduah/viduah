@@ -1,81 +1,64 @@
 # Hi 👋, I'm Vidu
 
-🚀 Software Engineer | Backend-focused | API & System Builder  
+🚀 Software Engineer | Backend-Focused | API & System Builder  
 
-I’m a software engineer with a strong interest in building **scalable backend systems**, clean APIs, and practical solutions that solve real-world problems. I enjoy learning new technologies and improving existing systems step by step.
+I’m a software engineer with a strong focus on backend development.  
+I enjoy building scalable APIs, clean business logic, and reliable systems that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### Backend
 - PHP (Laravel)
 - Node.js
 - REST APIs
-- JWT / Sanctum Authentication
+- JWT / Laravel Sanctum Authentication
 
-**Frontend**
-- JavaScript
+### Frontend
 - React
-- Vue (basic)
+- JavaScript
 - HTML / CSS
 
-**Databases**
+### Databases
 - MySQL
-- PostgreSQL
-- Firebase / Firestore
+- Firebase Firestore
 
-**Dev & Tools**
+### Tools & Platforms
 - Git & GitHub
-- Docker (basic)
 - AWS S3
+- Firebase
 - Postman
-- Linux
 
 ---
 
-## 📌 What I’m Working On
-- Building secure backend APIs for mobile & web apps  
-- Payment gateway integrations  
-- Role & permission systems (Spatie, JWT)  
-- Real-time features (Firebase, WebSockets)
+## 📌 What I’m Currently Working On
+- 🔐 Secure authentication systems (JWT, Sanctum)
+- 💳 Payment gateway integrations
+- 🔔 Real-time notifications (Firebase FCM)
+- 🎮 Real-time multiplayer application logic
 
 ---
 
 ## 🌱 Currently Learning
-- System design fundamentals  
-- Advanced Laravel performance optimization  
-- Microservices & API architecture  
+- System design & scalability
+- Advanced Laravel architecture
 - AI-assisted development workflows
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
-### 📊 Profile Stats
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viduah&theme=github_dark)](https://github.com/viduah)
+![Vidu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viduah&show_icons=true&theme=default)
 
-### 💻 Languages & Commits
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viduah&theme=github_dark)](https://github.com/viduah)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viduah&theme=github_dark)](https://github.com/viduah)
-
-### 📈 Contribution Timeline
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=github_dark)](https://github.com/viduah)
-
-### ⏰ Productive Time
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viduah&theme=github_dark)](https://github.com/viduah)
-
-### 📊 Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viduah&theme=tokyonight)
-
-### 💼 Commits & Languages Over Time
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viduah&theme=tokyonight)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viduah&theme=tokyonight)
-
-## 🤝 Connect With Me
-- GitHub: https://github.com/viduah
-- Email: your-email@example.com
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viduah&layout=compact)
 
 ---
 
-⭐️ *Always open to learning, building, and improving.*
+## 🤝 Let’s Connect
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- 📧 Email: your@email.com
+
+---
+
+⭐ *“Clean code, clear logic, scalable systems.”*
